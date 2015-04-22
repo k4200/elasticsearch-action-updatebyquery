@@ -8,17 +8,17 @@
     </description>
     <inceptionYear>2013</inceptionYear>
 
-    <groupId>com.yakaz.elasticsearch.plugins</groupId>
+    <groupId>tv.kazu</groupId>
     <artifactId>elasticsearch-action-updatebyquery</artifactId>
     <version>2.4.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <url>http://github.com/yakaz/elasticsearch-action-updatebyquery</url>
+    <url>http://github.com/k4200/elasticsearch-action-updatebyquery</url>
     <scm>
-        <connection>scm:git:git@github.com:yakaz/elasticsearch-action-updatebyquery.git</connection>
-        <developerConnection>scm:git:git@github.com:yakaz/elasticsearch-action-updatebyquery.git</developerConnection>
-        <url>https://github.com/yakaz/elasticsearch-action-updatebyquery.git</url>
-      <tag>HEAD</tag>
+        <connection>scm:git:git@github.com:k4200/elasticsearch-action-updatebyquery.git</connection>
+        <developerConnection>scm:git:git@github.com:k4200/elasticsearch-action-updatebyquery.git</developerConnection>
+        <url>https://github.com/k4200/elasticsearch-action-updatebyquery.git</url>
+      <tag>v2.4.1</tag>
   </scm>
 
     <licenses>
