@@ -10,7 +10,7 @@
 
     <groupId>tv.kazu</groupId>
     <artifactId>elasticsearch-action-updatebyquery</artifactId>
-    <version>2.4.1-SNAPSHOT</version>
+    <version>2.4.1</version>
     <packaging>jar</packaging>
 
     <url>http://github.com/k4200/elasticsearch-action-updatebyquery</url>
