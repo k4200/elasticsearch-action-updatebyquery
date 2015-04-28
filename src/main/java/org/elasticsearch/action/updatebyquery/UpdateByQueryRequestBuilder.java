@@ -90,6 +90,11 @@ public class UpdateByQueryRequestBuilder extends IndicesReplicationOperationRequ
         return this;
     }
 
+    public UpdateByQueryRequestBuilder setScriptFile(String scriptFile) {
+        sourceBuilder().scriptFile(scriptFile);
+        return this;
+    }
+
     public UpdateByQueryRequestBuilder setScriptParams(Map<String, Object> scriptParams) {
         if (scriptParams != null) {
             sourceBuilder().scriptParams(scriptParams);
